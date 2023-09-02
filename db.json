@@ -1,0 +1,234 @@
+{
+  "offers": [
+    {
+      "name": "Macbook Pro",
+      "product_catgory_id": 1,
+      "brand": "Apple",
+      "description": "This is the best laptop",
+      "price": 10000,
+      "discount": 5,
+      "offer": 8000,
+      "status": "pending",
+      "video_url": "https://www.youtube.com/watch?v=_ojSGVYyJDY&ab_channel=KieKieTV",
+      "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+      "images": [
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": true
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        }
+      ],
+      "product_images": [
+        "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY"
+      ],
+      "features": [
+        "14 inches",
+        "16 GB Ram",
+        "512GB SSD"
+      ]
+    },
+    {
+      "name": "Macbook",
+      "product_catgory_id": 2,
+      "brand": "Apple",
+      "description": "This is the best Macbook",
+      "price": 17000,
+      "discount": 4,
+      "offer": 4000,
+      "status": "pending",
+      "video_url": "https://www.youtube.com/watch?v=_ojSGVYyJDY&ab_channel=KieKieTV",
+      "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+      "images": [
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": true
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        }
+      ],
+      "product_images": [
+        "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY"
+      ],
+      "features": [
+        "14 inches",
+        "8 GB Ram",
+        "216GB SSD"
+      ]
+    },
+    {
+      "name": "Dell",
+      "product_catgory_id": 3,
+      "brand": "Dell",
+      "description": "This is the best laptop",
+      "price": 5000,
+      "discount": 5,
+      "offer": 1000,
+      "status": "pending",
+      "video_url": "https://www.youtube.com/watch?v=_ojSGVYyJDY&ab_channel=KieKieTV",
+      "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+      "images": [
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": true
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        }
+      ],
+      "product_images": [
+        "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY"
+      ],
+      "features": [
+        "14 inches",
+        "16 GB Ram",
+        "512GB SSD"
+      ]
+    },
+    {
+      "name": "Iphone 12",
+      "product_catgory_id": 4,
+      "brand": "Apple",
+      "description": "This is the best phone",
+      "price": 7000,
+      "discount": 3,
+      "offer": 2000,
+      "status": "pending",
+      "video_url": "https://www.youtube.com/watch?v=_ojSGVYyJDY&ab_channel=KieKieTV",
+      "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+      "images": [
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": true
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        }
+      ],
+      "product_images": [
+        "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY"
+      ],
+      "features": [
+        "4 inches",
+        "16 GB Ram",
+        "128GB SSD"
+      ]
+    },
+    {
+      "name": "Samsung A014",
+      "product_catgory_id": 5,
+      "brand": "Samsung",
+      "description": "This is the best phone",
+      "price": 15000,
+      "discount": 2,
+      "offer": 8000,
+      "status": "pending",
+      "video_url": "https://www.youtube.com/watch?v=_ojSGVYyJDY&ab_channel=KieKieTV",
+      "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+      "images": [
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": true
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        }
+      ],
+      "product_images": [
+        "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY"
+      ],
+      "features": [
+        "14 inches",
+        "32 GB Ram",
+        "512GB SSD"
+      ]
+    },
+    {
+      "name": "airpod pro",
+      "product_catgory_id": 6,
+      "brand": "Apple",
+      "description": "This is the best airpod",
+      "price": 4000,
+      "discount": 3.5,
+      "offer": 2000,
+      "status": "pending",
+      "video_url": "https://www.youtube.com/watch?v=_ojSGVYyJDY&ab_channel=KieKieTV",
+      "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+      "images": [
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": true
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        },
+        {
+          "image": "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY",
+          "is_featured": false
+        }
+      ],
+      "product_images": [
+        "https://fastly.picsum.photos/id/1/200/300.jpg?hmac=jH5bDkLr6Tgy3oAg5khKCHeunZMHq0ehBZr6vGifPLY"
+      ],
+      "features": [
+        "8 inches",
+        "4 GB Ram",
+        "216GB SSD"
+      ]
+    }
+  ],
+  "bid": [
+    {
+      "auctionId": "24",
+      "bid": 666,
+      "time": "18:36:48",
+      "id": 1
+    },
+    {
+      "auctionId": "24",
+      "bid": 0,
+      "time": "18:39:1",
+      "id": 2
+    },
+    {
+      "auctionId": "24",
+      "bid": 77777,
+      "time": "19:55:58",
+      "id": 3
+    },
+    {
+      "auctionId": "23",
+      "bid": 99999,
+      "time": "20:1:49",
+      "id": 4
+    }
+  ]
+}
